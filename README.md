@@ -13,10 +13,10 @@
 ## Basic Overview
  Basic Authentication Using JavaScript, CSS, jQuery with Firebase.
  <br>
- <img width="42"
+<img width="42"
 src="https://www.iconfinder.com/icons/1175544/download/svg/512">
-<img width="30"
-src="https://srv-file8.gofile.io/download/0lkt9i/javascript-1.svg">
+<img width="35"
+src="https://e7.pngegg.com/pngimages/780/695/png-clipart-javascript-comment-html-logo-international-conference-on-missions-node-js-icon-angle-text.png">
 <img src="https://icon-library.com/images/css-icon/css-icon-1.jpg" width="30">
 
 # Example
