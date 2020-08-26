@@ -6,18 +6,18 @@
 <p align="center">
 <img src="https://img.shields.io/badge/made%20by-barilki-blue.svg" >
 <img src="https://img.shields.io/badge/status-stable-brightgreen.svg?style=flat">
-<br>
-<img width="42"
-src="https://www.iconfinder.com/icons/1175544/download/svg/512">
-<img width="30"
-src="https://srv-file8.gofile.io/download/0lkt9i/javascript-1.svg">
-<img src="https://icon-library.com/images/css-icon/css-icon-1.jpg" width="30">
 </p>
 
 
 
 ## Basic Overview
  Basic Authentication Using JavaScript, CSS, jQuery with Firebase.
+ <br>
+ <img width="42"
+src="https://www.iconfinder.com/icons/1175544/download/svg/512">
+<img width="30"
+src="https://srv-file8.gofile.io/download/0lkt9i/javascript-1.svg">
+<img src="https://icon-library.com/images/css-icon/css-icon-1.jpg" width="30">
 
 # Example
 
