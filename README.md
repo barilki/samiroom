@@ -5,7 +5,8 @@
 
 <p align="center">
 <img src="https://img.shields.io/badge/made%20by-barilki-blue.svg" >
-<img src="https://img.shields.io/badge/status-stable-brightgreen.svg?style=flat"></p>
+<img src="https://img.shields.io/badge/status-stable-brightgreen.svg?style=flat">
+<img src="https://www.iconfinder.com/icons/1175544/download/svg/512 style=flat"></p>
 
 
 
