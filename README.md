@@ -6,6 +6,8 @@
 <p align="center">
 <img src="https://img.shields.io/badge/made%20by-barilki-blue.svg" >
 <img src="https://img.shields.io/badge/status-stable-brightgreen.svg?style=flat">
+ <img src="https://img.shields.io/badge/website-UP-yellow.svg?style=flat">
+
 </p>
 
 
